@@ -7,3 +7,6 @@
 [submodule "s5"]
 	path = s5
 	url = https://github.com/naissa12/s5.git
+[submodule "s4"]
+	path = s4
+	url = https://github.com/naissa12/s4.git
