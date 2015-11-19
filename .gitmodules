@@ -4,3 +4,6 @@
 [submodule "s3"]
 	path = s3
 	url = https://github.com/naissa12/s3.git
+[submodule "s5"]
+	path = s5
+	url = https://github.com/naissa12/s5.git
